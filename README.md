@@ -26,14 +26,14 @@ In this project we have used the following technologies:
 
 ##Steps for running different modules:
 
-###1)/signup
+### 1)/signup
   localhost:8888/
   Select signup link.
   Add details for signup.
   User details are saved in embeded H2 database
   localhost:8888/h2-console
   User is directed to successful signup page.
-###2)/login
+### 2)/login
   localhost:8888/
   Select login link.
   Add email and password.
