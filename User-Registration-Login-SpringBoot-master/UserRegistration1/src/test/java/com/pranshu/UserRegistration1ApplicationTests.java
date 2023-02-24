@@ -1,4 +1,4 @@
-package io.amit;
+package com.pranshu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

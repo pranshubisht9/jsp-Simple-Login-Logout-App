@@ -1,4 +1,4 @@
-package io.amit.controller;
+package com.pranshu.controller;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import io.amit.model.User;
-import io.amit.repo.UserRepository;
+import com.pranshu.model.User;
+import com.pranshu.repo.UserRepository;
 
 @Controller
 public class UserController 

@@ -1,4 +1,4 @@
-package io.amit.model;
+package com.pranshu.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
